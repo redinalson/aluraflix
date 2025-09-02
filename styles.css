@@ -1,6 +1,7 @@
 body {
-    color:  rgb(0, 82, 71);;
-    background: white;
+    color: white;
+    background: black;
+    margin: 0px;
 }
 
 header {
